@@ -19,3 +19,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashnaravade&show_icons=true&locale=en" alt="yashnaravade" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashnaravade&" alt="yashnaravade" /></p>
+
+<!-- Holopin Badges -->
+[![@yashnaravade's Holopin board](https://holopin.me/yashnaravade)](https://holopin.io/@yashnaravade)
